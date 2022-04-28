@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&d0d0d83c-aef0-4753-87ba-5e149b742976"
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST04:s=O:r=O:a=O:p=O:g=2614:u=1:x=1:i=1651121529:t=1651207929:v=2:sig=AQFCmrUp7SKWofiacA1IdijKwhxmkRp7"
+px.ads.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	19b2e954-0f34-4c87-90b1-ae2aed93a0f5"
+www.pinterest.ca	TRUE	/	FALSE	1999999999	csrftoken	d6afcb49c94eb9be8dba4196ef8274d1
+www.pinterest.ca	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZEbTNwamE1ZS9UdU9pWHdkNmpheUY3TXRwcm5hcGxOVENnWisrN1JNTytZbmZEM2E0clVxN3g5SFZKODNzZEFaVmVMME9ZclRMRkFDbVlBRWlMVHdhTER1NC9aaENXVjF3bE1iTXlJMk5VZz0mWnhMUmxDZVBqNmdBUU13ZmlLY2krQ0FNQm5jPQ==
+www.pinterest.ca	TRUE	/	FALSE	1999999999	samesite	none
+www.pinterest.ca	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.ca	TRUE	/	FALSE	1999999999	_routing_id	a3b90084-3f88-4b17-ae4d-50e2bd447e13"
+www.roboticssummit.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
